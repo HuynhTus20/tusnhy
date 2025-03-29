@@ -1,5 +1,3 @@
-# tusnhy
-muốn tui đăng gì lên đây cũng được😈​😈
 <!DOCTYPE html>
 <html lang="vi">
 <head>
